@@ -12,7 +12,7 @@ Skills:  HTML / CSS / Sass / React / JS / Node.js / Express.js / Sequelize / SQL
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/4li.t4leb/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-AliTaleb__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/4li.t4leb/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-AliTaleb_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
