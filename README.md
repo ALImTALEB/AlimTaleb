@@ -3,7 +3,7 @@
 Web developer, JavaScript enthusiast. I'm happy as long as I have a problem to solve and something new to learn, I am passionate about doing meaningful work.
 
 
-Skills:  HTML / CSS / Sass / React / JS / Node.js / Express.js / Sequelize / SQLite
+Skills:  HTML / CSS / React / JS / Node.js / Express.js / MongoDB / Mongoose
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
